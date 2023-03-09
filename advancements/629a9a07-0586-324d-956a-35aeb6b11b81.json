@@ -1,0 +1,75 @@
+{
+  "vanillatweaks:anti_creeper_grief": {
+    "criteria": {
+      "tick": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "thewii:immersive/player/player_joined": {
+    "criteria": {
+      "joined": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "global:thewii": {
+    "criteria": {
+      "trigger": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "thewii:immersive/core/immersive-soundscapes": {
+    "criteria": {
+      "trigger": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:graves": {
+    "criteria": {
+      "tick": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:armored_elytra": {
+    "criteria": {
+      "tick": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2022-01-26 03:04:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2022-01-26 03:04:59 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2865
+}
